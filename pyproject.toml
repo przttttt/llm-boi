@@ -1,0 +1,9 @@
+[project]
+name = "llm-boi"
+version = "0.1.0"
+description = "It is a collaborative project to build large language model from scratch."
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
