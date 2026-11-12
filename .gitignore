@@ -1,16 +1,10 @@
-# virtual env 
-.venv/
-venv/
-
-# cache
 __pycache__/
-*.pyc
+.venv/
+*.egg-info/
 .pytest_cache/
-.ruff_cache/
-
-# secrets
-.env
-
-# operating system files
-.DS_Store
-Thumbs.db
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+checkpoints/
+runs/

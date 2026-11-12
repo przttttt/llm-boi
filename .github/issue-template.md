@@ -1,8 +1,8 @@
 ### issue template
 
-1. description
-2. changes proposed
-3. additional context
+- description
+- changes proposed
+- additional context
 
 [mention issue name and number]
 
